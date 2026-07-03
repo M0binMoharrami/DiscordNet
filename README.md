@@ -53,7 +53,7 @@ Watching Offline
 
 # Requirements
 
-- .NET 6.0 or newer
+- .NET 8.0 or newer
 - Discord Bot Token
 - A server status API
 - An event API (optional but recommended)
